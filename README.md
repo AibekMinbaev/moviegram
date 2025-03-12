@@ -45,3 +45,5 @@ Discover personalized movie recommendations tailored to your interests and viewi
 Here is how you can update your profile details such as your bio and profile picture.
 ![Moviegram and 2 more pages - Personal - Microsoft​ Edge 6_16_2024 10_08_25 PM](https://github.com/cse364-unist/moviegram/assets/91851247/036efeaf-1b54-4788-b4b3-a08ca88dab86)
 
+
+
